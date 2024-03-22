@@ -23,6 +23,4 @@ This project makes extensive use of the following tools and technologies:
 - Scikit-learn: Machine learning library for building and evaluating predictive models.
 - Matplotlib and Seaborn: Visualization libraries for creating insightful plots and charts.
 
-## Installation
-To set up the environment for running this project locally, follow these steps:
-1. Clone this repository to your local machine:
+
